@@ -1,5 +1,5 @@
 {
     "routes": [
-      {"src": "/(.*)","dest": "https://memos-auth-0.lhf.us.kg/"}
+      {"src": "/(.*)","dest": "http://memos-auth-0.lhf.us.kg/"}
     ]
 }
