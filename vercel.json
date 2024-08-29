@@ -1,6 +1,6 @@
 {
   "rewrites": [
     { "source": "/*", "destination": "https://memos-auth-0.lhf.us.kg/*" },
-    { "source": "*", "destination": "https://memos-auth-0.lhf.us.kg*/" }
+    { "source": "/", "destination": "https://memos-auth-0.lhf.us.kg/" }
   ]
 }
